@@ -1,0 +1,10 @@
+1) Run FR_LPT_LFW in MATLAB
+
+2) Specify the path name of the zipped custom database (AT 2 PLACES) in the the code 	
+   (resized_database_after_asm zipped folder)
+
+3) By default the code is for FR without LPT. 
+
+4) To use LPT as the Preprocessing step Uncomment face = logsample(face); and img = logsample(img); 
+
+4) Observe the output

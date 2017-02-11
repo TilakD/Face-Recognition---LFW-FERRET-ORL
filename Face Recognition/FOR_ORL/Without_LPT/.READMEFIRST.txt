@@ -1,0 +1,9 @@
+1) Run FACE_RECOGNITION_94 in MATLAB
+
+2) Specify the path name in the the code 
+	(By default it is C:\Users\Tilak\Documents\MATLAB\Face Recognition\ORL\s')
+	
+
+3) Enter the number of iterations 
+
+4) Observe the output

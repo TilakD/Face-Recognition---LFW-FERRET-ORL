@@ -1,0 +1,9 @@
+1) Run RUN_ME_FERET in MATLAB
+
+2) Specify the path name (AT 2 PLACES) in the the code 	
+
+3) By default the code is for FR without LPT. 
+
+4) To use LPT as the Preprocessing step Uncomment face = logsample(face); and img = logsample(img); 
+
+4) Observe the output
